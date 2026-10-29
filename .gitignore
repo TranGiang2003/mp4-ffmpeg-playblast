@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+bin/windows/*.exe
+licenses/ffmpeg/
+TEST-REPORT.md
+*.zip
