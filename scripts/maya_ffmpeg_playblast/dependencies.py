@@ -6,7 +6,7 @@ import tempfile
 import urllib.request
 from zipfile import ZipFile
 
-URL = 'https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-9.0.2-essentials_build.zip'
+URL = 'https://github.com/GyanD/codexffmpeg/releases/download/9.0.2/ffmpeg-9.0.2-essentials_build.zip'
 SHA256 = '60f467265b1e312373dbcd92200c2618a74850f98d3d078e94296bb3fa2047ba'
 PREFIX = 'ffmpeg-9.0.2-essentials_build/'
 
